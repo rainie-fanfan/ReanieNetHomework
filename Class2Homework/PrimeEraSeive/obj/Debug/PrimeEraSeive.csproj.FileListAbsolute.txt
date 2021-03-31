@@ -1,0 +1,6 @@
+D:\bugs\C#\Homework\HomeWork2\Solution2\PrimeEraSeive\bin\Debug\PrimeEraSeive.exe.config
+D:\bugs\C#\Homework\HomeWork2\Solution2\PrimeEraSeive\bin\Debug\PrimeEraSeive.exe
+D:\bugs\C#\Homework\HomeWork2\Solution2\PrimeEraSeive\bin\Debug\PrimeEraSeive.pdb
+D:\bugs\C#\Homework\HomeWork2\Solution2\PrimeEraSeive\obj\Debug\PrimeEraSeive.csproj.CoreCompileInputs.cache
+D:\bugs\C#\Homework\HomeWork2\Solution2\PrimeEraSeive\obj\Debug\PrimeEraSeive.exe
+D:\bugs\C#\Homework\HomeWork2\Solution2\PrimeEraSeive\obj\Debug\PrimeEraSeive.pdb

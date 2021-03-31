@@ -1,0 +1,7 @@
+D:\bugs\C#\Homework\HomeWork2\Solution2\MatrixToep\bin\Debug\MatrixToep.exe.config
+D:\bugs\C#\Homework\HomeWork2\Solution2\MatrixToep\bin\Debug\MatrixToep.exe
+D:\bugs\C#\Homework\HomeWork2\Solution2\MatrixToep\bin\Debug\MatrixToep.pdb
+D:\bugs\C#\Homework\HomeWork2\Solution2\MatrixToep\obj\Debug\MatrixToep.csprojAssemblyReference.cache
+D:\bugs\C#\Homework\HomeWork2\Solution2\MatrixToep\obj\Debug\MatrixToep.csproj.CoreCompileInputs.cache
+D:\bugs\C#\Homework\HomeWork2\Solution2\MatrixToep\obj\Debug\MatrixToep.exe
+D:\bugs\C#\Homework\HomeWork2\Solution2\MatrixToep\obj\Debug\MatrixToep.pdb

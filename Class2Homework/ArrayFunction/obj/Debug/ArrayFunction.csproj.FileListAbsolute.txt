@@ -1,0 +1,7 @@
+D:\bugs\C#\Homework\HomeWork2\Solution2\ArrayFunction\bin\Debug\ArrayFunction.exe.config
+D:\bugs\C#\Homework\HomeWork2\Solution2\ArrayFunction\bin\Debug\ArrayFunction.exe
+D:\bugs\C#\Homework\HomeWork2\Solution2\ArrayFunction\bin\Debug\ArrayFunction.pdb
+D:\bugs\C#\Homework\HomeWork2\Solution2\ArrayFunction\obj\Debug\ArrayFunction.csprojAssemblyReference.cache
+D:\bugs\C#\Homework\HomeWork2\Solution2\ArrayFunction\obj\Debug\ArrayFunction.csproj.CoreCompileInputs.cache
+D:\bugs\C#\Homework\HomeWork2\Solution2\ArrayFunction\obj\Debug\ArrayFunction.exe
+D:\bugs\C#\Homework\HomeWork2\Solution2\ArrayFunction\obj\Debug\ArrayFunction.pdb
