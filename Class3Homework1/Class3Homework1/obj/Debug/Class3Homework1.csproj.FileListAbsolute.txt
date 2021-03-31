@@ -1,0 +1,7 @@
+E:\c#\Homework\Class3Homework1\Class3Homework1\bin\Debug\Class3Homework1.exe.config
+E:\c#\Homework\Class3Homework1\Class3Homework1\bin\Debug\Class3Homework1.exe
+E:\c#\Homework\Class3Homework1\Class3Homework1\bin\Debug\Class3Homework1.pdb
+E:\c#\Homework\Class3Homework1\Class3Homework1\obj\Debug\Class3Homework1.csprojAssemblyReference.cache
+E:\c#\Homework\Class3Homework1\Class3Homework1\obj\Debug\Class3Homework1.csproj.CoreCompileInputs.cache
+E:\c#\Homework\Class3Homework1\Class3Homework1\obj\Debug\Class3Homework1.exe
+E:\c#\Homework\Class3Homework1\Class3Homework1\obj\Debug\Class3Homework1.pdb
