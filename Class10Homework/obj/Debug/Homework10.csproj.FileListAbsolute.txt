@@ -1,0 +1,10 @@
+D:\bugs\C#\DotNetHomeWork\Homework10\bin\Debug\Homework9.exe.config
+D:\bugs\C#\DotNetHomeWork\Homework10\bin\Debug\Homework9.exe
+D:\bugs\C#\DotNetHomeWork\Homework10\bin\Debug\Homework9.pdb
+D:\bugs\C#\DotNetHomeWork\Homework10\obj\Debug\Homework10.csprojAssemblyReference.cache
+D:\bugs\C#\DotNetHomeWork\Homework10\obj\Debug\Homework10.FormCrawler.resources
+D:\bugs\C#\DotNetHomeWork\Homework10\obj\Debug\Homework9.Properties.Resources.resources
+D:\bugs\C#\DotNetHomeWork\Homework10\obj\Debug\Homework10.csproj.GenerateResource.cache
+D:\bugs\C#\DotNetHomeWork\Homework10\obj\Debug\Homework10.csproj.CoreCompileInputs.cache
+D:\bugs\C#\DotNetHomeWork\Homework10\obj\Debug\Homework9.exe
+D:\bugs\C#\DotNetHomeWork\Homework10\obj\Debug\Homework9.pdb
