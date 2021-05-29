@@ -1,0 +1,10 @@
+D:\bugs\C#\Homework\Homework7\WinFormTree\bin\Debug\WinFormTree.exe.config
+D:\bugs\C#\Homework\Homework7\WinFormTree\bin\Debug\WinFormTree.exe
+D:\bugs\C#\Homework\Homework7\WinFormTree\bin\Debug\WinFormTree.pdb
+D:\bugs\C#\Homework\Homework7\WinFormTree\obj\Debug\WinFormTree.csprojAssemblyReference.cache
+D:\bugs\C#\Homework\Homework7\WinFormTree\obj\Debug\WinFormTree.Form1.resources
+D:\bugs\C#\Homework\Homework7\WinFormTree\obj\Debug\WinFormTree.Properties.Resources.resources
+D:\bugs\C#\Homework\Homework7\WinFormTree\obj\Debug\WinFormTree.csproj.GenerateResource.cache
+D:\bugs\C#\Homework\Homework7\WinFormTree\obj\Debug\WinFormTree.csproj.CoreCompileInputs.cache
+D:\bugs\C#\Homework\Homework7\WinFormTree\obj\Debug\WinFormTree.exe
+D:\bugs\C#\Homework\Homework7\WinFormTree\obj\Debug\WinFormTree.pdb
